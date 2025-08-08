@@ -12,7 +12,7 @@ Google Colab, o código:
 
 - Por fim, exibe as 3 versões da imagem: original, cinza e binária.
 
-Converter uma imagem para escala de cinza ou binarizada (preto e branco) são importantes em aplicações de machine learning (ML) e visão computacional, especialmente em tarefas relacionadas a reconhecimento de padrões, classificação de imagens, OCR, bases para pré-processamento, entre outros.
+Converte uma imagem para escala de cinza e binarizada (preto e branco) em aplicações de machine learning (ML) e visão computacional, tarefa relacionada a reconhecimento de padrões, classificação de imagens, OCR, bases para pré-processamento, entre outros.
 
   🔹 Escala de Cinza (0–255)\
 Motivo de uso:
